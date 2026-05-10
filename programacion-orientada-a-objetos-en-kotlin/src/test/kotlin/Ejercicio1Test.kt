@@ -1,6 +1,9 @@
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertNotNull
+import edu.etec.ds.fundamentos.Estudiante
+
+
 
 /**
  * Ejercicio 1: Clases, Constructores y Propiedades

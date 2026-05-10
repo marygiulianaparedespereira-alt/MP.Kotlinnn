@@ -1,6 +1,7 @@
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertTrue
+import  edu.etec.ds.fundamentos.CuentaBancaria
 
 /**
  * Ejercicio 2: Métodos de Instancia

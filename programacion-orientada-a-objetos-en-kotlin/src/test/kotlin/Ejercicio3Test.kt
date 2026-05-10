@@ -1,6 +1,7 @@
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertNotEquals
+import  edu.etec.ds.fundamentos.Producto
 
 /**
  * Ejercicio 3: Data Classes
